@@ -1,2 +1,2 @@
 superadmin|master_user_k20|Mateo Huamán|true|true|true|true
-admin|mayor|Game Over.
+superadmin|mayor|Game Over.|true|true|true|true
