@@ -1,2 +1,2 @@
-superadmin|Master_User_K20|Mateo Huamán
-admin|davidcachimuel|David el guapo|true|true|true|true
+superadmin|master_user_k20|Mateo Huamán|true|true|true|true
+admin|Davidcachimuel|David el guapo|true|false|true|true
