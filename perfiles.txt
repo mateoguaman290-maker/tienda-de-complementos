@@ -1,3 +1,3 @@
 superadmin|master_user_k20|Mateo Huamán|true|true|true|true
 admin|mayor|Game Over.|true|true|true|true
-superadmin|tttt|nnn|true|true|true|true
+admin|tttt|nnn|true|true|true|true
