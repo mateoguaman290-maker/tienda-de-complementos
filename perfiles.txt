@@ -1,2 +1,2 @@
 superadmin|master_user_k20|Mateo Huamán|true|true|true|true
-admin|juancarlos|Carlos El guapo|true|true|true|true
+admin|JuanCarlos|Carlos El guapo|true|false|true|true
