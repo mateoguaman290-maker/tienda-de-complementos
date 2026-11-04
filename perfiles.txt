@@ -1,3 +1,2 @@
 superadmin|Mateo2026Master_User_K20|Mateo Huamán|true|true|true|true
 admin|mayor|Game Over.|true|true|true|true
-admin|danielnunez1225|danielnunez1225
